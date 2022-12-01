@@ -13,6 +13,7 @@
 
 # 模型訓練
 ## 模型架構分三類
-### 1.使用AutoEncoder的方式加入LSTM，CNN1D在其中生成MP3音樂。
+### 1.使用AutoEncoder的方式加入LSTM，CNN1D在其中生成MP3音樂。(已完成)
+    生成音樂連結https://drive.google.com/drive/folders/185Vhm6fO4SWUI3Z4D_VEUX-vFGxXSJ0a?usp=sharing
 ### 2.模型內加入Midi檔再用Attention將其生成MP3檔。
 ### 3.把AE模型中的Latent Space改用QML生成MP3檔。
