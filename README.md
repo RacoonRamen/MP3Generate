@@ -15,8 +15,7 @@
 ## 為甚麼要使用QML
 ![image](https://user-images.githubusercontent.com/75330475/206336853-6c7f210c-ecd9-46f6-948d-0317cd11b1a2.png)
 ![image](https://user-images.githubusercontent.com/75330475/206361468-4d8ee5cd-89da-46d7-8824-f6975a2ecff7.png)
-### 量
-
+### 在了解QML之後認識到，QML的架構在整體架構上的優化，及透過量子計算的方法是有機會提升準確率，也翻閱過幾篇QML相關的paper發現在影像辨識上QML的準確率相較之下是有提高的，也因此想藏是使用QML在音訊的資料分析上做嘗試。
 
 # 模型訓練
 ## 模型架構分三類
