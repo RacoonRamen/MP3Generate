@@ -11,6 +11,11 @@
 
 挑選出四位不同的古典樂家，莫札特、巴赫、柴可夫斯基、貝多芬，各選取五格不同的樂章，每個樂章隨機挑選並擷取20秒作為訓練資料。
 
+# WHY QML
+## 為甚麼要使用QML
+![image](https://user-images.githubusercontent.com/75330475/206336853-6c7f210c-ecd9-46f6-948d-0317cd11b1a2.png)
+
+
 # 模型訓練
 ## 模型架構分三類
 ### 1.使用AutoEncoder的方式加入LSTM，CNN1D在其中生成MP3音樂。(已完成)(模型調參中) 
