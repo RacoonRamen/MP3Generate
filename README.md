@@ -14,6 +14,8 @@
 # WHY QML
 ## 為甚麼要使用QML
 ![image](https://user-images.githubusercontent.com/75330475/206336853-6c7f210c-ecd9-46f6-948d-0317cd11b1a2.png)
+![image](https://user-images.githubusercontent.com/75330475/206361468-4d8ee5cd-89da-46d7-8824-f6975a2ecff7.png)
+### 量
 
 
 # 模型訓練
